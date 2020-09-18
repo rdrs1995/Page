@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 20px 22px;
+}
+.navbar img{
+    text-align: center;
+}
